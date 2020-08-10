@@ -2,6 +2,7 @@
 I'm Mariana Reis.
 A Front End Developer who focuses on writting clean and efficient code.
 
+
 <!--
 **MarianaReis1/MarianaReis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
