@@ -1,9 +1,4 @@
 # Hi there 👋
-I'm Mariana Reis
-
-## Welcome to my GitHub 😄
-I enjoy making responsive, friendly, and functional web applications with a simple and distinct design. 
-And I am always looking forward to learning new technologies and getting to know new people.
 
 
 <!--
