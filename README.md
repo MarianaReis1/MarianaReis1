@@ -10,6 +10,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,jquery,gcp,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,vscode)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=laravel,webpack,vite,vercel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,vscode)](https://skillicons.dev)
