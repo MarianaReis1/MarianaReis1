@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 Work: RedSnapper
+- 🔭 Work: MyTutor
 - 💬 Email: marianareis.dev@gmail.com
 - 💚 Tools:
 
